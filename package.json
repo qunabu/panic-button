@@ -1,0 +1,22 @@
+{
+  "name": "panic-button",
+  "version": "1.0.0",
+  "description": "When nothing work, there is one solution left. Panic Button!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qunabu/panic-button.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Mateusz Wojczal // Qunabu.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qunabu/panic-button/issues"
+  },
+  "homepage": "https://github.com/qunabu/panic-button#readme"
+}
