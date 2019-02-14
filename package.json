@@ -1,5 +1,5 @@
 {
-  "name": "panic-button",
+  "name": "panic-btn",
   "version": "0.0.1",
   "description": "When nothing works, there is one solution left. Panic Button!!!! ",
   "main": "dist/panic.js",
