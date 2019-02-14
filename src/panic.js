@@ -34,12 +34,13 @@ var Panic = {
 
   show: function () {
     document.body.appendChild(this.el);
+    this.sound.play();
     return setTimeout(() => {
         document.body.removeChild(this.el);
       },
       this.settings.timeout
     );
-    this.sound.play();
+    
   },
 
   aaaa: function (settings = {}) {
