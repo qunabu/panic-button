@@ -1,6 +1,6 @@
 {
   "name": "panic-btn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "When nothing works, there is one solution left. Panic Button!!!! ",
   "main": "dist/panic.js",
   "scripts": {

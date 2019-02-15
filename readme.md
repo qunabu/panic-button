@@ -2,16 +2,18 @@
 
 When nothing works, there is one solution left. Panic Button!!!!
 
+![Drag Racing](https://i.imgur.com/rwNqqt7.gif)
+
 ## to install 
 
-`npm i panic-button -s`
+`npm i panic-btn -s`
 
 ## Example 
 
 See `docs` folder
 
 ```javascript
-import PanicButton from "panic-button";
+import PanicButton from "panic-btn";
 
 PanicButton.aaaa();
 
